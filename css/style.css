@@ -249,7 +249,8 @@ body{
 	flex-direction: column;
 	align-items: flex-end;
 }
-.form-bg .btn #submit{
+.form-bg #submit{
+	align-self: flex-end;
 	width: 70px;
 	font-size: 15px;
 	border-radius: 5px;
